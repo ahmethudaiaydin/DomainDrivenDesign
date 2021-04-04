@@ -1,0 +1,14 @@
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\DDD.Infrastructure.dll
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\Order.Events.dll
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\DDD.Infrastructure.pdb
+C:\Users\ahmet\DDD\Order.Domain\bin\Debug\netstandard2.0\Order.Events.pdb
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csprojAssemblyReference.cache
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CopyComplete
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+C:\Users\ahmet\DDD\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb

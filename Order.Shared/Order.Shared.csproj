@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\nuget\DDD.Infrastructure\DDD.Infrastructure.csproj" />
+    <ProjectReference Include="..\nuget\Order.Events\Order.Events.csproj" />
+  </ItemGroup>
+
+</Project>

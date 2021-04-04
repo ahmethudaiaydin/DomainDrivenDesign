@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "195ExQ47vYD68sU69WZkS3QBCse/EaFIyI63QPdxV8w9D0K1t3JWqS9tFfvuU8EZ2QpaCxo9fs5L/Ychvoub3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ahmet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
