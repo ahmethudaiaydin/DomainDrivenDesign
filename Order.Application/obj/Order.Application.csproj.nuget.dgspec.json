@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\DDD\\Order.Application\\Order.Application.csproj": {}
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj",
         "projectName": "DDD.Infrastructure",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,24 +57,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj",
         "projectName": "Order.Events",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +85,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
               }
             }
           }
@@ -124,24 +118,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\DDD\\Order.Application\\Order.Application.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.Application\\Order.Application.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj",
         "projectName": "Order.Application",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Application\\Order.Application.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\Order.Application\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,17 +146,17 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj"
               },
-              "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj"
               },
-              "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\Order.EFCore.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\Order.EFCore.csproj"
               },
-              "C:\\Users\\ahmet\\DDD\\Order.Shared\\Order.Shared.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Shared\\Order.Shared.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj"
               }
             }
           }
@@ -197,24 +188,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj",
         "projectName": "Order.Domain",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\Order.Domain\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,11 +216,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
               },
-              "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj"
               }
             }
           }
@@ -264,24 +252,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\Order.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\Order.EFCore.csproj",
         "projectName": "Order.EFCore",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\Order.EFCore\\Order.EFCore.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\Order.EFCore\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\Order.EFCore.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.EFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -295,8 +280,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Domain\\Order.Domain.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Domain\\Order.Domain.csproj"
               }
             }
           }
@@ -328,24 +313,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\DDD\\Order.Shared\\Order.Shared.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.Shared\\Order.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj",
         "projectName": "Order.Shared",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Shared\\Order.Shared.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\Order.Shared\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -359,11 +341,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\DDD.Infrastructure\\DDD.Infrastructure.csproj"
               },
-              "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj"
+              "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj": {
+                "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj"
               }
             }
           }
@@ -395,7 +377,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

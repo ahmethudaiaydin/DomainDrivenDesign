@@ -658,23 +658,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahmet\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\02485325\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.Api\\Order.Api.csproj",
+      "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Api\\Order.Api.csproj",
       "projectName": "Order.Api",
-      "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Api\\Order.Api.csproj",
-      "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmet\\DDD\\Order.Api\\obj\\",
+      "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Api\\Order.Api.csproj",
+      "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -741,7 +737,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

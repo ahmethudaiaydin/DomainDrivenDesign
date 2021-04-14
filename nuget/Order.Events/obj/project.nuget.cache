@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WJP7S8k4FD/jTgUhqPaP5m2qn4KJ2rkIdkPMhyaRy1QfAm/ngQz4PB1sBxBT9avk4QePyHzRiPoVwn/gv1ls2w==",
+  "dgSpecHash": "/3ZwEUH2CIJqJevJuUgVJ9Z/r1c9TFqeR511+rMY4PAkkCAXQq/ssOTqyjj1AGTE5GdAPIKrMzpqqADatiIOSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmet\\DDD\\nuget\\Order.Events\\Order.Events.csproj",
+  "projectFilePath": "C:\\Users\\02485325\\DomainDrivenDesign\\nuget\\Order.Events\\Order.Events.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ahmet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ahmet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\02485325\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\02485325\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

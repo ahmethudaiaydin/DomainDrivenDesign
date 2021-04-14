@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\DDD\\Order.Test\\Order.Test.csproj": {}
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Test\\Order.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmet\\DDD\\Order.Test\\Order.Test.csproj": {
+    "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Test\\Order.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\DDD\\Order.Test\\Order.Test.csproj",
+        "projectUniqueName": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Test\\Order.Test.csproj",
         "projectName": "Order.Test",
-        "projectPath": "C:\\Users\\ahmet\\DDD\\Order.Test\\Order.Test.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\DDD\\Order.Test\\obj\\",
+        "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Test\\Order.Test.csproj",
+        "packagesPath": "C:\\Users\\02485325\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Test\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\02485325\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
