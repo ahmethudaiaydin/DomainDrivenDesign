@@ -210,6 +210,86 @@
             "rid": "win"
           }
         }
+      },
+      "DDD.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DDD.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DDD.Infrastructure.dll": {}
+        }
+      },
+      "Order.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Order.Domain": "1.0.0",
+          "Order.EFCore": "1.0.0",
+          "Order.Events": "1.0.0",
+          "Order.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Application.dll": {}
+        }
+      },
+      "Order.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0",
+          "Order.Events": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Domain.dll": {}
+        }
+      },
+      "Order.EFCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Order.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.EFCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.EFCore.dll": {}
+        }
+      },
+      "Order.Events/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Events.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Events.dll": {}
+        }
+      },
+      "Order.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0",
+          "Order.Events": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Shared.dll": {}
+        }
       }
     }
   },
@@ -647,6 +727,36 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DDD.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../nuget/DDD.Infrastructure/DDD.Infrastructure.csproj",
+      "msbuildProject": "../nuget/DDD.Infrastructure/DDD.Infrastructure.csproj"
+    },
+    "Order.Application/1.0.0": {
+      "type": "project",
+      "path": "../Order.Application/Order.Application.csproj",
+      "msbuildProject": "../Order.Application/Order.Application.csproj"
+    },
+    "Order.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Order.Domain/Order.Domain.csproj",
+      "msbuildProject": "../Order.Domain/Order.Domain.csproj"
+    },
+    "Order.EFCore/1.0.0": {
+      "type": "project",
+      "path": "../Order.EFCore/Order.EFCore.csproj",
+      "msbuildProject": "../Order.EFCore/Order.EFCore.csproj"
+    },
+    "Order.Events/1.0.0": {
+      "type": "project",
+      "path": "../nuget/Order.Events/Order.Events.csproj",
+      "msbuildProject": "../nuget/Order.Events/Order.Events.csproj"
+    },
+    "Order.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Order.Shared/Order.Shared.csproj",
+      "msbuildProject": "../Order.Shared/Order.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -654,6 +764,8 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.9",
+      "Order.Application >= 1.0.0",
+      "Order.Shared >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -683,7 +795,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj": {
+              "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Application\\Order.Application.csproj"
+            },
+            "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj": {
+              "projectPath": "C:\\Users\\02485325\\DomainDrivenDesign\\Order.Shared\\Order.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

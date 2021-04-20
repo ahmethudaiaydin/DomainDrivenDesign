@@ -1,0 +1,8 @@
+C:\Users\02485325\DomainDrivenDesign\Product.Events\bin\Debug\netstandard2.0\Product.Events.deps.json
+C:\Users\02485325\DomainDrivenDesign\Product.Events\bin\Debug\netstandard2.0\Product.Events.dll
+C:\Users\02485325\DomainDrivenDesign\Product.Events\bin\Debug\netstandard2.0\Product.Events.pdb
+C:\Users\02485325\DomainDrivenDesign\Product.Events\obj\Debug\netstandard2.0\Product.Events.AssemblyInfoInputs.cache
+C:\Users\02485325\DomainDrivenDesign\Product.Events\obj\Debug\netstandard2.0\Product.Events.AssemblyInfo.cs
+C:\Users\02485325\DomainDrivenDesign\Product.Events\obj\Debug\netstandard2.0\Product.Events.csproj.CoreCompileInputs.cache
+C:\Users\02485325\DomainDrivenDesign\Product.Events\obj\Debug\netstandard2.0\Product.Events.dll
+C:\Users\02485325\DomainDrivenDesign\Product.Events\obj\Debug\netstandard2.0\Product.Events.pdb

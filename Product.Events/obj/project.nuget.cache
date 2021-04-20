@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "so1Ne6oX6Pzn3c4FUPTiEQvmZLIv0lZTi0X3Dugo5dMFJJ7bSjVz8vBNZdxTCeXDyUUZACtfGfe8bX/jl4a1Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\02485325\\DomainDrivenDesign\\Product.Events\\Product.Events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\02485325\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\02485325\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

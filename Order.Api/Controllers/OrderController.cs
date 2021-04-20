@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Order.Events;
+using Order.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,18 +11,18 @@ namespace Order.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class OrderController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly IOrderService _orderService;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public OrderController(IOrderService orderService)
         {
-            _logger = logger;
+            _orderService = orderService;
         }
 
         [HttpGet]
@@ -34,6 +36,20 @@ namespace Order.Api.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpPost]
+        public async Task<OrderDto> CreateOrder(OrderType orderType, List<OrderItemDto> orderItems)
+        {
+
+            return await _orderService.CreateOrder(orderType, orderItems);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> ChangeProductPrice(Guid productId, double price)
+        {
+            await _orderService.ChangeProductPrice(productId, price);
+            return Ok();
         }
     }
 }

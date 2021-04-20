@@ -28,6 +28,8 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.0",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "5.0.0",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.9",
+          "Order.Application": "1.0.0",
+          "Order.Shared": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -496,6 +498,74 @@
         }
       },
       "System.Security.Cryptography.Cng/4.5.0": {},
+      "DDD.Infrastructure/1.0.0": {
+        "runtime": {
+          "DDD.Infrastructure.dll": {}
+        },
+        "compile": {
+          "DDD.Infrastructure.dll": {}
+        }
+      },
+      "Order.Application/1.0.0": {
+        "dependencies": {
+          "Order.Domain": "1.0.0",
+          "Order.EFCore": "1.0.0",
+          "Order.Events": "1.0.0",
+          "Order.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Order.Application.dll": {}
+        },
+        "compile": {
+          "Order.Application.dll": {}
+        }
+      },
+      "Order.Domain/1.0.0": {
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0",
+          "Order.Events": "1.0.0"
+        },
+        "runtime": {
+          "Order.Domain.dll": {}
+        },
+        "compile": {
+          "Order.Domain.dll": {}
+        }
+      },
+      "Order.EFCore/1.0.0": {
+        "dependencies": {
+          "Order.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Order.EFCore.dll": {}
+        },
+        "compile": {
+          "Order.EFCore.dll": {}
+        }
+      },
+      "Order.Events/1.0.0": {
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Order.Events.dll": {}
+        },
+        "compile": {
+          "Order.Events.dll": {}
+        }
+      },
+      "Order.Shared/1.0.0": {
+        "dependencies": {
+          "DDD.Infrastructure": "1.0.0",
+          "Order.Events": "1.0.0"
+        },
+        "runtime": {
+          "Order.Shared.dll": {}
+        },
+        "compile": {
+          "Order.Shared.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -2320,6 +2390,36 @@
       "sha512": "sha512-WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
       "path": "system.security.cryptography.cng/4.5.0",
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    },
+    "DDD.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.EFCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

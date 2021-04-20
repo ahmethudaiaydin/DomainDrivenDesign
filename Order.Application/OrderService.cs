@@ -33,6 +33,17 @@ namespace Order.Application
             };
         }
 
+        public async Task ChangeProductPrice(Guid productId, double price)
+        {
+            var orders = await _orderRepository.GetOrdersByProductId(productId);
+
+            orders.ForEach(order =>
+            {
+                order.UpdatePrice(productId, price);
+                _orderRepository.SaveAsync(order);
+            });
+        }
+
         public async Task AddItemToOrder(OrderItemDto orderItem)
         {
             throw new NotImplementedException();
@@ -47,5 +58,7 @@ namespace Order.Application
         {
             throw new NotImplementedException();
         }
+
+
     }
 }

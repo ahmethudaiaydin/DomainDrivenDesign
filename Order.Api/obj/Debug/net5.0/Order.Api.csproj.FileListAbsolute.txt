@@ -72,3 +72,15 @@ C:\Users\02485325\DomainDrivenDesign\Order.Api\obj\Debug\net5.0\Order.Api.dll
 C:\Users\02485325\DomainDrivenDesign\Order.Api\obj\Debug\net5.0\ref\Order.Api.dll
 C:\Users\02485325\DomainDrivenDesign\Order.Api\obj\Debug\net5.0\Order.Api.pdb
 C:\Users\02485325\DomainDrivenDesign\Order.Api\obj\Debug\net5.0\Order.Api.genruntimeconfig.cache
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\DDD.Infrastructure.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Application.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Domain.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.EFCore.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Events.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Shared.dll
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Application.pdb
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Shared.pdb
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\DDD.Infrastructure.pdb
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Domain.pdb
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.EFCore.pdb
+C:\Users\02485325\DomainDrivenDesign\Order.Api\bin\Debug\net5.0\Order.Events.pdb
